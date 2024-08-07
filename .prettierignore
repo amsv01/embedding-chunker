@@ -1,0 +1,8 @@
+node_modules
+package.json
+bin/at_clients
+**/vendor/**
+**/*.ejs
+**/generated/**
+**/__generated__/**
+**/dist/**
